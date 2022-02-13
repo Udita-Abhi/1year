@@ -176,7 +176,7 @@ button.addEventListener("click",function(){
             return;
         }
 
-        document.querySelector(".HBD").textContent = "Touch yourself ";
+        document.querySelector(".HBD").textContent = "Click on your Picture ";
 
         frames[1].style.display = "flex";
 
